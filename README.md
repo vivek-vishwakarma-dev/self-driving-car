@@ -28,13 +28,21 @@ The model learns from human driving behavior and predicts **steering angles in r
 
 ## 📂 🗂 Project Structure
 ├── drive.py 🔹 Run model in simulator
+
 ├── model.py 🔹 CNN architecture
+
 ├── load_data.py 🔹 Data loading & augmentation
+
 ├── config.py 🔹 Parameters
+
 ├── visualize_data.py 🔹 Data visualization
+
 ├── visualize_activations.py 🔹 Model insights
+
 ├── pretrained/ 🔹 Saved model
+
 ├── img/ 🔹 Images
+
 └── README.md
 
 ## 🎮 🚀 Simulator Setup
